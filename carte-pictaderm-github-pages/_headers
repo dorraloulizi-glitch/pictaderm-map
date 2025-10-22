@@ -1,3 +1,0 @@
-/*
-  Content-Security-Policy: frame-ancestors 'self' https://*.webflow.io https://pictaderm.com
-  X-Frame-Options:
