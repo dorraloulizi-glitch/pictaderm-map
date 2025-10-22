@@ -1,0 +1,3 @@
+name,latitude,longitude,offre,description,adresse,ville,code_postal,phone,email
+Pharmacie Exemple Médicale,48.8566,2.3522,Medicale,Spécialité dermato,1 Rue Exemple,Paris,75001,+33 1 23 45 67 89,med@example.com
+Pharmacie Exemple Dermoscopie,43.6047,1.4442,Dermoscopie,Campagne dépistage,2 Rue Exemple,Toulouse,31000,+33 5 12 34 56 78,dermo@example.com
